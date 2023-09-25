@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP');
+
+body {
+	margin: 0% 20%;
+	font-family: 'Noto Serif JP', sans-serif;
+	font-style: italic;
+	color: rgb(36, 36, 36);
+}
+
+#top {
+	border: none;
+	margin: auto;
+	text-align: center;
+}
+
+#top>img {
+	display: block;
+	margin: 0 auto;
+
+}
+
+h1 {
+	letter-spacing: 3px;
+}
+h1:hover {
+	background-color: rgb(36, 36, 36);
+	color: white;
+}
+
+.exp {
+	margin: 0% 10%;
+}
+
+footer {
+	text-align: center;
+	margin: 10%;
+}
